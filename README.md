@@ -1,6 +1,6 @@
 
 
-![](https://github.com/codewithjalaj/codewithjalaj/blob/master/my.svg)
+![](https://github.com/DEV-VRUPER/DEV-VRUPER/blob/main/hello.svg)
 
 <h1 align="center">Hi 👋 ,I'm VR</h1>
 <h3 align="center">Full Stack Developer 💻</h3>
