@@ -5,17 +5,10 @@
 <h1 align="center">Hi 👋 ,I'm VR</h1>
 <h3 align="center">Full Stack Developer 💻</h3>
 
-<p align="center"> <a href="https://github.com/DEV-VRUPER"><img src="https://camo.githubusercontent.com/dc2d0b48d6059978eff55d24142349883c54abb46ccc2adecbf22bf585e4fb86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="DEV-VRUPER" /></a> </p>
 
-<!-- 🔭 I’m currently working on backend for a local delivery app called **[Urgent](https://github.com/jalajcodes/urgent-backend)** -->
+<!-- 🔭 I’m currently working on backend for a local delivery app called **[Urgent]()** -->
 
 - 🌱 I’m currently learning **Golang,Python,Typescript,AWS**
-
-<!--- 👨‍💻 Checkout some of my projects below.
-
-- 🏠 Visit my [Portfolio](https://jalaj.codes/)
-
-- 📝 Checkout my [blog](https://blog.jalaj.codes/) -->
 
 - 💬 Ask me about **Microservices, Event Driven systems, Scalable services ,SOLID principles**
 
